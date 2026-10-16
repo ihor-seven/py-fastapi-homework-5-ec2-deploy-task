@@ -121,4 +121,3 @@ volumes:
 networks:
   theater_network_test:
     driver: bridge
-
